@@ -225,7 +225,9 @@ for Reading this section **please** fork   this kernel:
 # Do You Need Help?
 
 Linkedin - https://www.linkedin.com/in/adityaagarwal68/
+
 Email - adi.ag321@gmail.com
+
 Medium - https://adi-ag321.medium.com/
 
 I hope, you have enjoyed reading my python notebooks. If you have any problem and question to run notebooks please open an issue here in GitHub. For most of the my notebooks you need **dataset** as input.
