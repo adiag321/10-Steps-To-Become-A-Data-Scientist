@@ -1,14 +1,6 @@
-# 10-Steps-To-Become-A-Data-Scientist
+# 10-Steps-To-Become-A-Data-Scientist 💻💾📓✒📊 
  
- <div align="center">
- 
- # 📢 10 Steps to Become a Data Scientist
- # CLEAR DATA. MADE MODEL.
- ### last update: <b>19/07/2019
- ### 💻💾📓✒📊 
- 
- </div>
- 
+
 1. [Python]
 1. [Python Packages]
 1. [Mathematics and Linear Algebra]
@@ -19,7 +11,6 @@
 1. [How to solve Problem?]
 1. [Machine Learning]
 1. [Deep Learning]
-
 
 
 #  Introduction
@@ -228,15 +219,16 @@ for Reading this section **please** fork   this kernel:
 [A-Comprehensive-Deep-Learning-Workflow-with-Python]
 
 <img src='https://cdn-images-1.medium.com/max/800/1*dYjDEI0mLpsCOySKUuX1VA.png'>
+
 ---------------------------------------------------------------------
 
 # Do You Need Help?
 
-I hope, you have enjoyed reading my python notebooks.
+Linkedin - https://www.linkedin.com/in/adityaagarwal68/
+Email - adi.ag321@gmail.com
+Medium - https://adi-ag321.medium.com/
 
-If you have any problem and question to run notebooks please open an issue here in GitHub.
-
-for most of the my notebooks you need **dataset** as input.
+I hope, you have enjoyed reading my python notebooks. If you have any problem and question to run notebooks please open an issue here in GitHub. For most of the my notebooks you need **dataset** as input.
 
 To use the **correct data**, please **download** the data set from  the **Kaggle** site and put it in your notebook folder.
 
