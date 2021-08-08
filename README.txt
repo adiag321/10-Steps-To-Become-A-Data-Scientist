@@ -2,7 +2,6 @@
  
  # 📢 10 Steps to Become a Data Scientist
  # CLEAR DATA. MADE MODEL.
- ### last update: <b>19/07/2019
  ### 💻💾📓✒📊 
  
  </div>
