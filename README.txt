@@ -1,6 +1,6 @@
-<p align="center">
+# <p align="center">
  
- # 📢 10 Steps to Become a Data Scientist </p>
+📢 10 Steps to Become a Data Scientist </p>
  # CLEAR DATA. MADE MODEL. 
  ### 💻💾📓✒📊 
  
