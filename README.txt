@@ -1,11 +1,10 @@
-<p> <div align="center">
+<p align="center">
  
- # 📢 10 Steps to Become a Data Scientist
- # CLEAR DATA. MADE MODEL.
+ # 📢 10 Steps to Become a Data Scientist </p>
+ # CLEAR DATA. MADE MODEL. 
  ### 💻💾📓✒📊 
  
- </div>
- </p>
+
 1. [Python]
 1. [Python Packages]
 1. [Mathematics and Linear Algebra]
